@@ -1,0 +1,207 @@
+# STR/Airbnb Investing Educators, Coaches & Influencers (US-focused, as of Sept 2026)
+
+## Who are the well-known STR/Airbnb investing coaches/educators running paid courses, coaching, or masterminds? (verify named individuals + find others)
+
+### Takeaway
+All individuals named in the assignment prompt (Rob Abasolo, Avery Carl, Sarah Karakaian, Michael Elefante, James Svetec, Tim Hubbard) are confirmed, active, real, US-based STR educators with paid offerings; "Cody Berman" is a real FI/real-estate content creator but is **not** primarily an STR-specific educator (his rentals are largely long-term/house-hacking, not an STR-teaching brand) and should be treated as adjacent, not core. Roughly a dozen additional named individuals/duos running paid STR courses, coaching, or masterminds were identified and verified below.
+
+### Cited Findings — Verified Roster (name / brand / niche / platform / audience / contact / monetization)
+
+1. **Rob Abasolo ("Robuilt")** — Brand: Robuilt / Host Camp. Niche: unique-stay STRs (A-frames, tiny homes, glamping, cabins) and general STR investing education. Platforms: YouTube ("Robuilt," ~225,000+ subscribers per a competitor-run comparison), Instagram (@robuilt, follower count not verified), podcast guest circuit (e.g., The Investor's Podcast). Contact: robuiltchannel.com, hostcamp.com. Monetization: Host Camp — a 3-month course + 12-month group-coaching mentorship, ~$7,000, incl. 8 modules/80+ videos, monthly group calls, private Facebook community — [Millyunz review](https://millyunz.com/robuilt-host-camp/), [Robuilt course page](https://www.robuiltchannel.com/airbnb-course), [Host Camp](https://www.hostcamp.com/what-does-it-mean-to-become-a-camper), [Ippei roundup](https://ippei.com/top-airbnb-coaching-services/), subscriber figure via [Sean Rakidzich comparison article](https://www.rakidzich.com/articles/best-airbnb-coaches-2026-verified) (note: source is a competing coach's site, so treat the exact subscriber number as directionally useful but unverified from a primary source).
+
+2. **Avery Carl** — Brand: The Short Term Shop (STS). Niche: STR-specific real estate brokerage/team (Smoky Mountains, Gulf Coast, and other short-term-rental-friendly markets), author of "Short Term Rental, Long Term Wealth." Platforms: Instagram business account @theshorttermshop (~97K followers) and personal @theaverycarl (~54K followers); podcast "The Short Term Show." Audience/portfolio: 250+ doors owned personally; brokerage has served 5,000+ STR investors across ~20 markets. Contact: theshorttermshop.com; LinkedIn [linkedin.com/in/averycarl](https://www.linkedin.com/in/averycarl/). Monetization: primarily a real-estate brokerage/team (commission-based) plus a live "Vacation Market Masterclass," book royalties, and "STS University" — remote self-management training reported as **exclusive to clients who buy property through the brokerage**, not sold as a standalone public course — [LinkedIn](https://www.linkedin.com/in/averycarl/), [Grit Daily](https://gritdaily.com/the-short-term-shop-mastering-short-term-rentals/), [Instagram - business](https://www.instagram.com/theshorttermshop/), [Instagram - personal](https://www.instagram.com/theaverycarl/).
+
+3. **Sarah Karakaian & Annette Grant** — Brand: Thanks For Visiting (co-founded together). Niche: boutique/design-forward STR hosting, hospitality-driven short-term rental operations, host business systems. Platforms: podcast "Thanks For Visiting," online educational platform, Instagram. Programs: "Stage-to-Rent Academy" (flagship certification) and a "Hosting Business Mastery" membership/continuing-education community. Contact: thanksforvisiting.com; thanksforvisiting.me (Stage-to-Rent Academy). Monetization: paid academy/certification + membership community — [Columbus Monthly profile](https://www.columbusmonthly.com/story/lifestyle/features/2023/12/18/meet-the-columbus-entrepreneurial-duo-selling-the-airbnb-lifestyle/71964803007/), [Stage-to-Rent Academy](https://www.thanksforvisiting.me/stage-to-rent-academy-), [Christina Galbato interview](https://christinagalbato.com/annette-grant-sarah-karakaian/), [Databird Business Journal](https://www.databirdjournal.com/posts/thanks-for-visiting-sarah-karakaian-annette-grant). **Gap:** follower/subscriber counts not found in searches — needs manual confirmation.
+
+4. **James Svetec** — Brand: BNB Mastery (formerly associated with LearnBNB.com). Niche: rapid Airbnb business scaling, co-hosting business model, STR acquisition/investing. Platforms: Instagram (@jamessvetec, follower count not found), Skool community, Forbes features, co-author of "Airbnb For Dummies." Reported to have trained 1,100+ students in 14+ countries. Contact: bnbmastery.com/contact (contact form); LinkedIn (ca.linkedin.com/in/james-svetec-4683b393). Monetization: three-tier program — BNB Mastery Program / BNB Investing Mastery (~$2,000, or 5×$597 installments), BNB Inner Circle (higher-tier mastermind), BNB Hosting Accelerator (4-week hosting course), plus a "Co-Hosting Mastery" 6-week intensive — [BNB Mastery site](https://bnbmastery.com/), [ScamRisk review](https://www.scamrisk.com/james-svetec-bnb-mastery/), [Ippei review](https://ippei.com/bnb-mastery/), [Center for Work Life review](https://centerforworklife.com/opp/real-estate/bnb-mastery-james-svetec/), [Rental Scale-Up profile](https://www.rentalscaleup.com/start-airbnb-investing-now-insights-from-james-svetec-behind-airbnb-for-dummies/), [Instagram](https://www.instagram.com/jamessvetec/?hl=en).
+
+5. **Michael Elefante** — Brand: BNB Investor Academy; also co-founder of Home Team Vacation Rentals/Home Team Luxury Rentals and Someried Designs. Niche: STR investing/acquisition + design/setup + management, built a 7-figure STR business with wife Jill in 3 years (9 properties, $1.5M in 2024 bookings per own claims). Platforms: Instagram @melefante6, podcast circuit (AirDNA's STR Data Lab, Hospitable podcast), author of "Investing in Short-Term Rentals: The Fast Path to Financial Freedom." One source describes him as having "over 1 million followers on social media" — **this figure is unverified/likely an aggregate or promotional claim and should be confirmed directly against his own channels before use.** Contact: bnbinvestoracademy.com; LinkedIn company page (linkedin.com/company/bnb-investor-academy). Monetization: BNB Investor Academy mentorship, reported by third-party review/aggregator sites at roughly $10,000–$12,000 (flat fee, no syndication/no outside capital taken from students per BiggerPockets forum discussion) — [Hospitable podcast](https://hospitable.com/podcast-michael-elefante-bnb-investor-academy), [Amazon book listing](https://www.amazon.com/Investing-Short-Term-Rentals-Financial-Freedom/dp/1963793897), [Reevyew review](https://reevyew.com/elefante/), [ScamRisk review](https://www.scamrisk.com/bnb-investor-academy-review-is-michael-elefante-legit/), [BiggerPockets forum thread](https://www.biggerpockets.com/forums/530/topics/1133317-does-anyone-know-if-bnb-investor-academy-and-michael-elefant-are-serious), [Instagram](https://www.instagram.com/melefante6/?hl=en).
+
+6. **Sean Rakidzich** — Brand: Airbnb Automated (YouTube) / Cracking Superhost (education brand) / Revande (revenue-management SaaS). Niche: rental arbitrage + STR revenue/pricing management/automation at scale (155-property personal portfolio, $1M+/month claimed revenue). Platforms: YouTube "Airbnb Automated," 322,000+ subscribers, 18M+ views, 730+ videos, 6-year archive. Contact: rakidzich.com. Monetization: paid courses (e.g., "RE:ALGORITHM" pricing/algorithm course), rental-arbitrage coaching, author of "The Revenue Manager's Handbook" (Amazon #1 best seller in several categories), plus SaaS (Revande) — [Hostaway profile](https://www.hostaway.com/blog/sean-rakidzich-airbnb-automated/), [Rakidzich About page](https://www.rakidzich.com/about-sean-rakidzich), [RE:ALGORITHM](https://www.rakidzich.com/realgo), [YouTube channel](https://www.youtube.com/channel/UCvwmrPfn8ff-rTlc9YoH7Bg). Largest verified YouTube following of anyone on this list besides Robuilt.
+
+7. **Tony J. Robinson & Sara Robinson** — Brand: The Real Estate Robinsons (content) / Alpha Host (coaching) / Alpha Geek Capital (their own portfolio). Niche: STR scaling using partners/JVs; Tony also co-hosts BiggerPockets' "Real Estate Rookie" podcast (BiggerPockets itself is excluded per scope, but Tony's own brand is in-scope). Portfolio: scaled to a $10M+ STR portfolio in ~2 years (TN and Joshua Tree, CA properties). Platforms: YouTube "The Real Estate Robinsons" (subscriber count not found — gap), podcast guest circuit. Contact: therealestaterobinsons.com. Monetization: "Alpha Host" — paid online coaching program for building an Airbnb business — [Apple Podcasts episode](https://podcasts.apple.com/us/podcast/the-big-short-how-real-estate-investor-tony-j/id1506974626?i=1000574847353), [BiggerPockets blog](https://www.biggerpockets.com/blog/biggerpockets-podcast-476-tony-j-robinson), [The Real Estate Robinsons site](https://therealestaterobinsons.com/), [YouTube video](https://www.youtube.com/watch?v=8kB_M5b238s).
+
+8. **Tim Hubbard** — Brand: Short Term Rental Riches (podcast) / REST Methods (his STR management business). Niche: acquiring/operating/scaling STR businesses; background as an investment broker with $2B+ in cumulative multifamily/commercial transactions before pivoting to STR. Platforms: podcast "Short Term Rental Riches" — described as a "Top 10 STR podcast" with nearly 1M downloads (self-reported figure, not independently verified). Contact: strriches.com. Monetization: not clearly itemized in available sources (podcast + management company REST Methods); no explicit paid-course price point was found — **gap, confirm directly.** — [Real Estate Guys Radio tag page](https://realestateguysradio.com/tag/tim-hubbard/), [strriches.com](https://strriches.com/), [Podscan.fm](https://www.podscan.fm/podcasts/short-term-rental-riches).
+
+9. **Bill Faeth** — Brand: Build Short Term Rental Wealth (buildstrwealth.com) / "Build STR Wealth Mastermind" / co-host of the STRonomics podcast (with Kenny Bedwell). Niche: beach/lake/mountain STR portfolios; personally manages a multi-million-dollar STR portfolio. Platforms: Facebook (~4,027 followers), X/Twitter (~6,639 followers), a Clubhouse "AirBNB Mastermind" room (~2.8K members) — all comparatively modest, verified counts. Contact: billfaeth.com; LinkedIn (linkedin.com/in/billfaeth). Monetization: "Build STR Wealth Mastermind" — 1:1 coaching plus a select-group mastermind network — [billfaeth.com](https://www.billfaeth.com/), [Build STR Wealth Mastermind funnel page](https://billfaeth.clickfunnels.com/build-str-wealth-mastermind1701018936993), [Facebook](https://www.facebook.com/coachfaeth/), [X](https://x.com/bfaeth), [LinkedIn](https://www.linkedin.com/in/billfaeth/).
+
+10. **Michael (Mike) Sjogren** — Brand: Short Term Rental Secrets (strsecrets.com). Niche: STR portfolio scaling/financial coaching; personally scaled from 1 property to 82 across 3 states (now reported ~50+ STRs incl. 3 boutique hotels). Platforms: podcast "Short Term Rental Secrets," Skool community, LinkedIn. Co-founder of the STR Wealth Conference (an in-person event). Contact: strsecrets.com (team page: strsecrets.com/the-team/). Monetization: annual Mastermind Program — training program access, weekly group coaching calls, 1:1 sessions with Sjogren; price not disclosed in sources found — **gap, confirm directly.** — [LinkedIn](https://www.linkedin.com/in/mikesjogren/), [AirDNA podcast](https://www.airdna.co/podcast/str-data-lab-episode-91), [Road to Family Freedom episode](https://www.roadtofamilyfreedom.com/episodes/how-to-build-a-six-figure-annual-income-using-short-term-rentals-with-michael-sjogren/), [STR Secrets team page](https://www.strsecrets.com/the-team/).
+
+11. **Kenny Bedwell** — Brand: STR Insights (market-data tool + education) / co-host of STRonomics podcast (with Bill Faeth). Niche: data-driven STR market selection/underwriting (helps investors identify markets/deals using data analytics). Background: ex-Citibank financial research/analytics. Platforms: YouTube guest appearances, Skool, conference speaking (2025 STR Wealth Conference). Contact: stronomics.com (podcast site); primary STR Insights company domain not confirmed in search results — **gap, confirm directly.** Monetization: STR Insights appears to be a paid data/software subscription (not purely a course); explicit pricing not found — **gap.** — [YouTube interview](https://www.youtube.com/watch?v=Wd79abMVkbg), [Thanks For Visiting ep. 197](https://thanksforvisiting.com/podcasts/197/), [STRonomics](https://stronomics.com/about/), [STR Wealth Conference speaker page](https://strwealthconference.com/speaker/kenny-bedwell/).
+
+12. **Shaun Ghavami & Ari Rahmanian** — Brand: 10XBNB. Niche: rental arbitrage specifically (leasing then subletting on Airbnb), taught via curriculum on markets, contracts, design, pricing, and ops. Ghavami also runs Iconic Retreats (Vancouver-based STR property management, $100M+ in managed properties, $5M+ in booking fees generated, 1,000+ five-star reviews). Platforms: not independently verified in this pass (Instagram/YouTube handles not confirmed) — **gap.** Contact: learn.10xbnb.com. Monetization: 10XBNB course reported at ~$7,000 (figure sourced from a competing coach's comparison article, so treat as directional only) — [Authority Magazine profile](https://medium.com/authority-magazine/second-chapters-shaun-ghavami-of-10xbnb-how-i-reinvented-myself-in-the-second-chapter-of-my-life-6b87ee640e44), [10XBNB About](https://learn.10xbnb.com/about-shaun-ghavami/), [10XBNB FAQ](https://learn.10xbnb.com/faq/), price claim via [rental arbitrage course roundup](https://ippei.com/best-airbnb-arbitrage-courses/).
+
+13. **Culin & Danielle Tate** — Brand: "Airbnb Host Coach Show | Investing for Financial Freedom" (podcast, active 2023–2026, 146 episodes at time of search). Niche: Airbnb superhosts teaching STR investing for financial freedom. Platforms: podcast (Apple Podcasts); other platform/audience data not found — **gap.** Contact info not found in this pass — **gap, confirm directly.** Monetization model not confirmed — **gap.** — [Apple Podcasts listing](https://podcasts.apple.com/us/podcast/airbnb-host-coach-show-investing-for-financial-freedom/id1717104010).
+
+14. **Justin Miller** — Brand: Showplace (showplacehq.com). Niche: STR design, furnishing, and market-selection strategy for maximizing ROI ("STR Masterclass"); claims to have helped launch 2,200+ STRs nationwide. Role: Co-founder & CEO. Platform/audience size not independently verified — **gap.** Contact: showplacehq.com. Monetization: paid "STR Investing 101" masterclass — [Showplace masterclass page](https://www.showplacehq.com/masterclasses/str_investing_101).
+
+15. **"Coach Cav"** (full name not confirmed in this research pass) — Brand: YourSpaceSTR ("Coach Cav's Airbnb & Sharing Economy" course, hosted on Teachable). Niche: rental arbitrage. Platform/audience and full legal name not verified — **gap, flag for manual confirmation before outreach; identity needs to be confirmed before treating as a reliable outreach target.** Contact: yourspacestr.teachable.com. — [Course page](https://yourspacestr.teachable.com/), referenced in [Ippei's arbitrage course roundup](https://ippei.com/best-airbnb-arbitrage-courses/).
+
+16. **Bryson Blocker & Inayah McMillan** — Brand: Airbnb Breakdown Academy. Niche: rental arbitrage, positioned around scaling income to $100K in under 12 months. Platform/audience, contact info, and pricing not found in this pass — **gap, confirm directly.** — referenced in [Ippei's arbitrage course roundup](https://ippei.com/best-airbnb-arbitrage-courses/).
+
+17. **Cody Berman** (flagged, not core) — Brand: Fly To FI / co-host of "The FI Show." Verified as a real financial-independence content creator who owns ~11–13 rental units and wrote "Retire by 30," but search results show his content is centered on financial independence and (mostly long-term) rental income/side hustles generally, **not** a dedicated Airbnb/STR-teaching brand or course. Recommend excluding from an STR-specific lender outreach list unless further evidence surfaces of an STR-specific paid offering — [BiggerPockets Money podcast](https://www.biggerpockets.com/blog/biggerpockets-money-podcast-26-graduating-college-on-track-for-financial-independence-cody-berman), [ChooseFI](https://choosefi.com/podcast-episode/605-retire-in-less-than-10-years-cody-berman), [Master Passive Income](https://masterpassiveincome.com/retire-by-30-cody-berman).
+
+### Inferences
+- The STR education space clusters into three recognizable sub-segments: (a) general STR acquisition/scaling educators (Robuilt, BNB Investor Academy, Real Estate Robinsons, Short Term Rental Secrets), (b) rental-arbitrage-specific educators (10XBNB, BNB Mastery's co-hosting/hosting tracks, Coach Cav, Airbnb Breakdown Academy), and (c) niche specialists in design/hospitality (Thanks For Visiting, Showplace, Staging Studio's STR Stylist course) or data/analytics (STR Insights, Revande). A lender targeting this space should likely segment outreach the same way, since sub-niche affects which loan/financing pain points matter most to each brand's audience (e.g., arbitrage educators' students are less likely to need purchase-money mortgages, since arbitrage is lease-based, not ownership-based).
+- Paid-offering price points cluster around $2,000–$12,000 for cohort/mentorship-style programs (BNB Mastery ~$2K, 10XBNB ~$7K, Host Camp ~$7K, BNB Investor Academy ~$10–12K), suggesting these audiences are willing/able to spend meaningfully on education — a reasonable proxy for capital availability relevant to a mortgage lender's outreach targeting.
+- Several of these educators (Bill Faeth + Kenny Bedwell via STRonomics; Sarah Karakaian + Annette Grant) operate as duos/small teams rather than solo personal brands, which may be relevant for identifying decision-makers in partnership/sponsorship conversations.
+
+### Gaps
+- Audience size (subscriber/follower counts) could not be verified for: Sarah Karakaian/Annette Grant, James Svetec (Instagram number specifically), Tony J. & Sara Robinson (YouTube count), Michael Sjogren, Kenny Bedwell, Shaun Ghavami/Ari Rahmanian, Culin & Danielle Tate, Justin Miller/Showplace, Coach Cav, and Bryson Blocker/Inayah McMillan. These should be checked directly against each platform before use in outreach planning.
+- Michael Elefante's "1 million+ followers" claim is unverified and should not be treated as a confirmed statistic without checking his actual channel(s) directly.
+- Full legal name for "Coach Cav" could not be confirmed — recommend verifying before any outreach or CRM entry.
+- No explicit, source-confirmed affiliate/vendor partnership (e.g., with PriceLabs, Hostaway, or specific lenders) was found for any individual on this list in this research pass; it is reasonable to assume some exist (courses reference tools like AirDNA in curricula) but none were confirmed with a citable source, so none are reported as fact below.
+
+---
+
+## What are their brand/company names?
+
+### Takeaway
+Each educator operates under a distinct personal or company brand (rather than under a mega-platform); see the roster above for the full list. Consolidated list below for quick reference.
+
+### Cited Findings
+- Rob Abasolo → **Robuilt** / **Host Camp** — [robuiltchannel.com](https://www.robuiltchannel.com/), [hostcamp.com](https://www.hostcamp.com/)
+- Avery Carl → **The Short Term Shop** — [theshorttermshop.com via Instagram](https://www.instagram.com/theshorttermshop/)
+- Sarah Karakaian & Annette Grant → **Thanks For Visiting** — [thanksforvisiting.com](https://thanksforvisiting.com/)
+- James Svetec → **BNB Mastery** — [bnbmastery.com](https://bnbmastery.com/)
+- Michael Elefante → **BNB Investor Academy** — [linkedin.com/company/bnb-investor-academy](https://www.linkedin.com/company/bnb-investor-academy)
+- Sean Rakidzich → **Airbnb Automated / Cracking Superhost / Revande** — [rakidzich.com](https://www.rakidzich.com/)
+- Tony J. & Sara Robinson → **The Real Estate Robinsons / Alpha Host / Alpha Geek Capital** — [therealestaterobinsons.com](https://therealestaterobinsons.com/)
+- Tim Hubbard → **Short Term Rental Riches / REST Methods** — [strriches.com](https://strriches.com/)
+- Bill Faeth → **Build Short Term Rental Wealth / STRonomics** — [billfaeth.com](https://www.billfaeth.com/)
+- Michael Sjogren → **Short Term Rental Secrets** — [strsecrets.com](https://www.strsecrets.com/)
+- Kenny Bedwell → **STR Insights / STRonomics** — [stronomics.com](https://stronomics.com/about/)
+- Shaun Ghavami & Ari Rahmanian → **10XBNB** (Ghavami also: Iconic Retreats) — [learn.10xbnb.com](https://learn.10xbnb.com/)
+- Culin & Danielle Tate → **Airbnb Host Coach Show** — [Apple Podcasts](https://podcasts.apple.com/us/podcast/airbnb-host-coach-show-investing-for-financial-freedom/id1717104010)
+- Justin Miller → **Showplace** — [showplacehq.com](https://www.showplacehq.com/)
+- "Coach Cav" → **YourSpaceSTR** — [yourspacestr.teachable.com](https://yourspacestr.teachable.com/)
+- Bryson Blocker & Inayah McMillan → **Airbnb Breakdown Academy** — referenced in [Ippei roundup](https://ippei.com/best-airbnb-arbitrage-courses/)
+
+### Inferences
+- None beyond what's stated above.
+
+### Gaps
+- None beyond brand-name confirmation for "Coach Cav" (see prior section).
+
+---
+
+## What platform(s) do they primarily use (YouTube, Instagram, TikTok, podcast, newsletter/Substack, course platform)?
+
+### Takeaway
+YouTube and Instagram dominate as primary discovery channels for the largest-audience educators (Robuilt, Sean Rakidzich, Avery Carl), while podcasts are the dominant format for several smaller/mid-tier educators (Thanks For Visiting, Short Term Rental Riches, Short Term Rental Secrets, STRonomics, Airbnb Host Coach Show). Course delivery is commonly hosted on Teachable, Kajabi-style platforms, or Skool communities. No TikTok-primary or Substack-primary STR educator was identified in this research pass — **flagged as a gap**, not a confirmed absence.
+
+### Cited Findings
+- Rob Abasolo: primary = YouTube ("Robuilt") — [Rakidzich comparison](https://www.rakidzich.com/articles/best-airbnb-coaches-2026-verified); secondary = Instagram (@robuilt) — [Instagram](https://www.instagram.com/robuilt/).
+- Avery Carl: primary = Instagram (business + personal accounts) — [Instagram business](https://www.instagram.com/theshorttermshop/), [Instagram personal](https://www.instagram.com/theaverycarl/); secondary = podcast "The Short Term Show" — [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-short-term-show/id1576433178).
+- Sean Rakidzich: primary = YouTube ("Airbnb Automated") — [Hostaway profile](https://www.hostaway.com/blog/sean-rakidzich-airbnb-automated/).
+- Sarah Karakaian & Annette Grant: primary = podcast "Thanks For Visiting" + owned educational platform — [Columbus Monthly](https://www.columbusmonthly.com/story/lifestyle/features/2023/12/18/meet-the-columbus-entrepreneurial-duo-selling-the-airbnb-lifestyle/71964803007/).
+- James Svetec: Instagram (@jamessvetec), Skool community, Facebook group, media/press (Forbes) — [BNB Mastery media page](https://bnbmastery.com/media/), [Instagram](https://www.instagram.com/jamessvetec/?hl=en).
+- Michael Elefante: Instagram (@melefante6), podcast guest circuit — [Instagram](https://www.instagram.com/melefante6/?hl=en).
+- Tim Hubbard: podcast "Short Term Rental Riches" — [strriches.com](https://strriches.com/).
+- Bill Faeth: Facebook, X/Twitter, Clubhouse, podcast (STRonomics) — [Facebook](https://www.facebook.com/coachfaeth/), [X](https://x.com/bfaeth).
+- Michael Sjogren: podcast, Skool, LinkedIn — [LinkedIn](https://www.linkedin.com/in/mikesjogren/).
+- Course-delivery platforms observed in this space: Teachable (YourSpaceSTR/Coach Cav) — [yourspacestr.teachable.com](https://yourspacestr.teachable.com/); Skool (BNB Investor Academy, Michael Sjogren, James Svetec, Kenny Bedwell all have Skool presences) — [BNB Investor Academy on Skool](https://www.skool.com/bnbinvestoracademy/about), [Sjogren on Skool](https://www.skool.com/@michael-sjogren-8124), [Svetec on Skool](https://www.skool.com/@james-svetec), [Bedwell on Skool](https://www.skool.com/@kenny-bedwell-3436).
+
+### Inferences
+- Skool has become a common community/cohort-delivery platform across multiple STR educators (at least 4 of the names researched have an active Skool presence), which may be a useful discovery channel for identifying additional smaller STR educators beyond this list.
+
+### Gaps
+- TikTok presence/activity was not confirmed for any name on this list — could not verify whether any of these educators run a primary TikTok channel; recommend a dedicated TikTok-specific search pass if that channel matters for outreach.
+- Newsletter/Substack presence not confirmed for any name on this list.
+
+---
+
+## What is their approximate audience size on their primary platform, if publicly discoverable?
+
+### Takeaway
+Verified, primary-source-adjacent audience figures were only found for a handful of names; most mid-tier educators' exact follower/subscriber counts were not discoverable through search snippets and would require direct platform lookups to confirm.
+
+### Cited Findings
+- Sean Rakidzich (YouTube, "Airbnb Automated"): 322,000+ subscribers, 18M+ views, 730+ videos — [Hostaway profile](https://www.hostaway.com/blog/sean-rakidzich-airbnb-automated/).
+- Rob Abasolo (YouTube, "Robuilt"): 225,000+ subscribers — reported via a competitor's comparison article, [Rakidzich](https://www.rakidzich.com/articles/best-airbnb-coaches-2026-verified) — **treat as directional, not confirmed from a primary source.**
+- Avery Carl / The Short Term Shop (Instagram): business account ~97K followers, personal account ~54K followers — [Instagram business](https://www.instagram.com/theshorttermshop/), [Instagram personal](https://www.instagram.com/theaverycarl/).
+- Bill Faeth: Facebook ~4,027 followers, X/Twitter ~6,639 followers, Clubhouse "AirBNB Mastermind" room ~2.8K members — [Facebook](https://www.facebook.com/coachfaeth/), [X](https://x.com/bfaeth), [Clubhouse](https://www.clubhouse.com/house/airbnb-mastermind).
+- Tim Hubbard's podcast "Short Term Rental Riches": described as a "Top 10 STR podcast" with "nearly 1M downloads" (self-reported/promotional figure) — [strriches.com](https://strriches.com/).
+- Michael Elefante: one secondary source claims "over 1 million followers on social media" — **unverified, likely a cross-platform aggregate or promotional claim; do not treat as confirmed** — [Hospitable podcast description](https://hospitable.com/podcast-michael-elefante-bnb-investor-academy).
+
+### Inferences
+- Audience sizes across this roster span roughly low-thousands (Bill Faeth's owned social accounts) to low-hundreds-of-thousands (Rakidzich, Robuilt), consistent with the "Michael Chang tier" (thousands to low hundreds of thousands) the assignment targets — i.e., this is the right tier of educator, distinct from multi-million-follower mega-brands.
+
+### Gaps
+- Audience size not found for: Sarah Karakaian/Annette Grant, James Svetec, Michael Elefante (own-channel number), Tony J. & Sara Robinson, Michael Sjogren, Kenny Bedwell, Shaun Ghavami/Ari Rahmanian, Culin & Danielle Tate, Justin Miller, Coach Cav, Bryson Blocker/Inayah McMillan. All would need direct platform lookups (YouTube "About" pages, Instagram bios) to confirm — flagged per assignment instructions for manual confirmation.
+
+---
+
+## What specific STR sub-niche do they focus on?
+
+### Takeaway
+The researched roster covers most of the sub-niches named in the assignment: rental arbitrage (10XBNB, Coach Cav/YourSpaceSTR, Airbnb Breakdown Academy, part of BNB Mastery), cabin/mountain STRs (The Short Term Shop's Smoky Mountains focus, Bill Faeth's beach/lake/mountain focus), luxury/design-forward STR (Thanks For Visiting, Showplace, Michael Elefante's Someried Designs), STR co-hosting business (BNB Mastery's Co-Hosting Mastery track, Alpha Host), and data/analytics-driven market selection (STR Insights).
+
+### Cited Findings
+- Rental arbitrage: 10XBNB — [learn.10xbnb.com/faq](https://learn.10xbnb.com/faq/); Coach Cav/YourSpaceSTR — [yourspacestr.teachable.com](https://yourspacestr.teachable.com/); Airbnb Breakdown Academy — [Ippei roundup](https://ippei.com/best-airbnb-arbitrage-courses/).
+- Cabin/mountain STR: The Short Term Shop's team focus includes the Smoky Mountains (Gatlinburg/Pigeon Forge) — [The Short Term Shop content](https://theshorttermshop.com/smoky-mountain-short-term-rental-income/); Bill Faeth's portfolio focus is beach/lake/mountain properties — [Build STR Wealth](https://buildstrwealth.com/author/bilfaeth/).
+- Luxury/design-forward STR: Thanks For Visiting (hospitality + interior design background) — [Databird Business Journal](https://www.databirdjournal.com/posts/thanks-for-visiting-sarah-karakaian-annette-grant); Showplace (design/furnishing/ROI) — [Showplace masterclass](https://www.showplacehq.com/masterclasses/str_investing_101); Someried Designs (Elefante co-founded) — [BNB Investor Academy podcast bio](https://hospitable.com/podcast-michael-elefante-bnb-investor-academy).
+- STR co-hosting business model: BNB Mastery's "Co-Hosting Mastery" (build a co-hosting business without owning property) — [BNB Mastery site](https://bnbmastery.com/); Alpha Host (Tony J. & Sara Robinson) — [The Real Estate Robinsons](https://therealestaterobinsons.com/).
+- Data/analytics-driven market selection: STR Insights (Kenny Bedwell) — [YouTube interview](https://www.youtube.com/watch?v=Wd79abMVkbg).
+- General acquisition/scaling (not a narrow sub-niche): Robuilt/Host Camp, BNB Investor Academy, Short Term Rental Secrets, Short Term Rental Riches, Real Estate Robinsons, Airbnb Automated — see citations in the first section above.
+
+### Inferences
+- No dedicated "Airbnb management/co-hosting-only" solo educator (as distinct from investing-focused educators who also teach co-hosting as one module) stood out as strongly as the arbitrage- or design-focused niches; this may indicate that pure STR-management education is more often delivered by software/PMS companies (e.g., Hospitable, Hostaway) rather than individual educators, and is worth flagging to the report writer as a possible under-covered niche in this pass.
+
+### Gaps
+- Sub-niche focus not clearly identified for: Culin & Danielle Tate, Justin Miller's audience beyond design (unclear if he personally invests vs. purely design/consulting), Bryson Blocker & Inayah McMillan.
+
+---
+
+## Do they have publicly listed business contact info (website, business email, contact form, social handles)?
+
+### Takeaway
+Every verified educator on this list has at least a public website and/or social handle; direct business email addresses were rarely found in full (most sites use contact forms), consistent with typical small-business practice.
+
+### Cited Findings
+- Robuilt/Host Camp: website + course page (no direct email found) — [robuiltchannel.com](https://www.robuiltchannel.com/), [hostcamp.com](https://www.hostcamp.com/).
+- The Short Term Shop: website (via Instagram bio), LinkedIn — [LinkedIn](https://www.linkedin.com/in/averycarl/).
+- Thanks For Visiting: website, LinkedIn (Sarah Karakaian) — [thanksforvisiting.com](https://thanksforvisiting.com/), [LinkedIn](https://www.linkedin.com/in/skarakaian/).
+- BNB Mastery: contact form at bnbmastery.com/contact (email partially masked in aggregator listings; not independently confirmed) — [Contact page](https://bnbmastery.com/contact/), aggregator listing at [ZoomInfo](https://www.zoominfo.com/p/James-Svetec/2968581628) (third-party data broker — use with caution/verify before use).
+- BNB Investor Academy: website + LinkedIn company page — [bnbinvestoracademy.com trust review](https://www.trustpilot.com/review/bnbinvestoracademy.com), [LinkedIn](https://www.linkedin.com/company/bnb-investor-academy).
+- Sean Rakidzich: website with course/contact pages — [rakidzich.com](https://www.rakidzich.com/).
+- Real Estate Robinsons: website — [therealestaterobinsons.com](https://therealestaterobinsons.com/).
+- Short Term Rental Riches: website with blog — [strriches.com](https://strriches.com/).
+- Bill Faeth: personal website + LinkedIn + active Facebook/X — [billfaeth.com](https://www.billfaeth.com/), [LinkedIn](https://www.linkedin.com/in/billfaeth/).
+- Short Term Rental Secrets: website with "the team" page — [strsecrets.com/the-team](https://www.strsecrets.com/the-team/).
+- 10XBNB: website with FAQ/about pages — [learn.10xbnb.com](https://learn.10xbnb.com/).
+- Showplace: website with masterclass page — [showplacehq.com](https://www.showplacehq.com/).
+
+### Inferences
+- Third-party data-broker sites (ZoomInfo, RocketReach, ContactOut) surfaced for James Svetec suggest direct email addresses can likely be sourced for cold outreach through standard B2B data tools, but Claude did not access or confirm those directly — flagged for the outreach team to pursue through their own compliant data-sourcing tools rather than treating broker-site snippets as confirmed.
+
+### Gaps
+- Direct business email addresses were not independently confirmed for any individual on this list (only contact forms/social handles were verifiable through search); recommend manual confirmation via each website's contact form or a compliant B2B contact-data tool before outreach.
+- Contact info not found at all for: Culin & Danielle Tate, "Coach Cav" (beyond the Teachable course page), Bryson Blocker & Inayah McMillan, Kenny Bedwell's STR Insights company site specifically (only the STRonomics podcast site was found).
+
+---
+
+## How do they monetize (course price point, coaching/mastermind, in-person events, affiliate deals)?
+
+### Takeaway
+The dominant monetization model across this roster is a paid mentorship/cohort course (typically $2,000–$12,000) sometimes paired with an ongoing mastermind tier; a smaller number monetize primarily through a real-estate brokerage model (The Short Term Shop) or software/data subscriptions (STR Insights, Revande). No confirmed vendor affiliate partnerships (e.g., PriceLabs, Hostaway, lenders) were found with a citable source for any individual in this pass.
+
+### Cited Findings
+- Host Camp (Robuilt): ~$7,000, 3-month course + 12-month mentorship — [Millyunz](https://millyunz.com/robuilt-host-camp/), [Ippei](https://ippei.com/top-airbnb-coaching-services/).
+- BNB Mastery (Svetec): ~$2,000 (or 5×$597) for core program; separate Co-Hosting Mastery and Inner Circle mastermind tiers — [BNB Mastery](https://bnbmastery.com/), [ScamRisk](https://www.scamrisk.com/james-svetec-bnb-mastery/).
+- BNB Investor Academy (Elefante): reported ~$10,000–$12,000 flat-fee mentorship, no syndication — [Reevyew](https://reevyew.com/elefante/), [BiggerPockets forum](https://www.biggerpockets.com/forums/530/topics/1133317-does-anyone-know-if-bnb-investor-academy-and-michael-elefant-are-serious).
+- 10XBNB: ~$7,000 rental-arbitrage-focused course (figure via a competitor's comparison, treat as directional) — [Ippei roundup](https://ippei.com/best-airbnb-arbitrage-courses/).
+- STR Stylist course (Staging Studio, design-focused, individual founder not confirmed in this pass): $749 one-time or 6×$139 — [Staging Studio](https://www.stagingstudio.com/str).
+- Avery Carl / The Short Term Shop: primarily a commission-based STR-specialist brokerage; "STS University" self-management training is bundled for brokerage clients rather than sold standalone; also monetizes via book sales and a paid live "Vacation Market Masterclass" — [Grit Daily](https://gritdaily.com/the-short-term-shop-mastering-short-term-rentals/).
+- Bill Faeth: "Build STR Wealth Mastermind" — 1:1 coaching + select-group mastermind (price not disclosed in sources found) — [Build STR Wealth Mastermind](https://billfaeth.clickfunnels.com/build-str-wealth-mastermind1701018936993).
+- Short Term Rental Secrets (Sjogren): annual Mastermind Program with weekly group calls + 1:1 sessions (price not disclosed); co-runs the in-person **STR Wealth Conference** — an example of in-person event monetization in this space — [Road to Family Freedom](https://www.roadtofamilyfreedom.com/episodes/how-to-build-a-six-figure-annual-income-using-short-term-rentals-with-michael-sjogren/).
+- Sean Rakidzich: paid course(s) (e.g., "RE:ALGORITHM"), a published book, and a separate SaaS product (Revande, revenue-management-as-a-service) — [RE:ALGORITHM](https://www.rakidzich.com/realgo), [Hostaway profile](https://www.hostaway.com/blog/sean-rakidzich-airbnb-automated/).
+- Short Term Gems: hosts a paid "Luxury Short-Term Rentals Investing" summit format (60 featured experts) rather than a single-educator course — [Short Term Gems summit](https://www.shorttermgems.com/summit) (flagged as a multi-speaker event brand rather than a single named individual — may still be useful as an event/sponsorship channel).
+
+### Inferences
+- In-person/live events (STR Wealth Conference, Avery Carl's Vacation Market Masterclass, Short Term Gems summit) represent a distinct sponsorship/booth opportunity channel separate from digital course sponsorships, and may be worth flagging separately to whoever plans the lender's outreach/sponsorship strategy.
+- The consistent presence of "mastermind" tiers above the base course price (Svetec's Inner Circle, Faeth's mastermind, Sjogren's Mastermind Program) suggests a common upsell ladder in this niche: course → mastermind/coaching → in-person event, which may map to different outreach approaches (e.g., a lender sponsoring a mastermind's guest-speaker slot vs. a course's affiliate-link partnership).
+
+### Gaps
+- No confirmed vendor affiliate partnership (PriceLabs, Hostaway, lender, or other STR vendor) was found with a direct, citable source for any individual on this list. This is very likely undercounted — these partnerships often aren't publicly documented outside the educator's own paid-course materials — and should be treated as a blind spot requiring either direct outreach or access to affiliate-network databases (e.g., PriceLabs' own partner page) rather than general web search.
+- Exact pricing not found for: Short Term Rental Riches (Hubbard), Short Term Rental Secrets (Sjogren)'s Mastermind, Bill Faeth's Mastermind, Alpha Host (Robinsons), STR Insights (Bedwell), Airbnb Breakdown Academy (Blocker/McMillan).
