@@ -26,6 +26,12 @@ pipeline.
   flags to avoid, and suggested outreach mechanisms.
 - `research_notes/` — the underlying per-niche research notes the report was
   synthesized from, kept for traceability and follow-up research.
+- `brand/` — Cliffco Mortgage Bankers branding (logos, brand guide,
+  mission/vision/values, color + typography tokens) for use in outreach
+  materials. See `brand/README.md`.
+- `compliance/` — Cliffco compliance source of truth (state licenses, branch
+  offices, loan-officer roster, disclosure language) for any compliance-required
+  copy in outreach materials. See `compliance/README.md`.
 
 ## Status
 
