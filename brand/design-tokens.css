@@ -1,0 +1,40 @@
+/*
+ * Cliffco brand design tokens.
+ * Source of truth: brand/brand-guide.pdf (Colors + Typography + Voice).
+ * Copied from the Cliffco site repo (cliffcomortgage/cliffco-site) so outreach
+ * materials produced in this repo match the live brand.
+ *
+ * Typography: Open Sans is the production web typeface (decision 2026-07-16).
+ * The brand guide's primary typeface is Graphik, but its trial OTFs are not
+ * licensed for web use, so the published web fallback (Open Sans) ships instead.
+ * If a licensed Graphik web kit is purchased from Commercial Type, add its
+ * WOFF2 @font-face declarations and update --font-sans below.
+ */
+
+:root {
+  /* ---------- Brand colors (from brand guide) ---------- */
+  --color-rich-black: #0d0d0d;   /* primary - headers, design elements */
+  --color-bright-plum: #6633cc;  /* accent - gradients, emphasis */
+  --color-ice-blue: #bde8f1;     /* accent - backgrounds, overlays */
+  --color-soft-gray: #b3b2b4;    /* neutral - backgrounds */
+  --color-mist-gray: #f0eef1;    /* neutral - surfaces */
+  --color-body: #3d4040;         /* body copy */
+
+  /* Semantic aliases */
+  --color-ink: #0d0d0d;
+  --color-text: #3d4040;
+  --color-text-muted: #5a5d5d;
+  --color-surface: #ffffff;
+  --color-surface-soft: #f0eef1;
+  --color-accent: #6633cc;
+  --color-accent-soft: #bde8f1;
+
+  /* ---------- Typography ---------- */
+  --font-sans: "Open Sans", ui-sans-serif, system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-display: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-logo: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+  --font-accent: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+
+  --tracking-logo: 0.2em;
+}
