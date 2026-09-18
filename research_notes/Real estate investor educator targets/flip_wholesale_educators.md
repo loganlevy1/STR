@@ -1,0 +1,190 @@
+# Fix-and-Flip / Wholesaling Educators, Coaches & Small-Team Brands (US, as of 2026)
+
+## Who are well-known fix-and-flip / wholesaling coaches and educators running paid courses, coaching, or masterminds? (verify suggested names + find others)
+
+### Takeaway
+Most of the names suggested by the prompt (Bill Allen, Jamil Damji, Brent Daniels, Ryan Pineda, Max Maxwell) are verified, active, named individual educators running paid coaching/mastermind businesses in the fix-and-flip/wholesaling space and fit the "Michael Chang tier" profile. Tarek El Moussa and Christina Hall (formerly Haack) are verified but are TV-famous/mainstream and should be flagged as arguably too large and reputationally complicated for a small-medium partnership target. Additional verified individuals found beyond the prompt's list: Jerry Norton (Flipping Mastery TV), Tom Krol (Wholesaling Inc.), Justin Colby (The Science of Flipping), Cody Sperber (Clever Investor), Kent Clothier (Real Estate Worldwide/REWW), Pace Morby (Subto), Chris Rood (Chris Rood Coaching), and Sharad Mehta (REsimpli — hybrid software/education figure).
+
+### Cited Findings
+- Bill Allen, a retired US Navy officer/test pilot, is CEO of 7 Figure Flipping, described as leading "one of the top house flipping and wholesaling mentoring groups in the world"; he has flipped/wholesaled over 1,000 houses and coached hundreds of investors — [7figureflipping.com/about](https://www.7figureflipping.com/about); [PropertyRadar](https://www.propertyradar.com/blog/flipping-and-wholesaling-bill-allen-7-figure-flipping)
+- Ryan Pineda is a former minor-league baseball player turned real estate investor/entrepreneur running the "Wealthy Way" brand and Future Flipper coaching platform; reported 1.5 million YouTube subscribers across his channel(s) and over $1 billion in cumulative social video views — [InfluencerFee profile](https://influencerfee.com/influencer/ryan-pineda/); [Ryan Pineda YouTube](https://www.youtube.com/RyanPineda)
+- Jamil Damji is co-founder/Chief Business Development Officer of KeyGlee (a nationally franchised wholesaling company operating in 118 markets, wholesaling 70-80 houses/month) and the face of the AstroFlipping mentorship program (co-created with Josiah Grimes in 2019); he also stars in A&E's "Triple Digit Flip" — [Real Estate Disruptors](https://podcast.disruptors.com/vlog/meet-jamil-damji-the-wholesaling-genie/); [RealEstateBees AstroFlipping review](https://realestatebees.com/course/astroflipping/); [KeyGlee](https://www.keyglee.com/investment-properties)
+- Brent Daniels is the creator of the "TTP" (Talk To People) cold-calling method and lead coach at Wholesaling Inc.; more than 2,000 investors have taken the TTP mentorship since its 2017 launch — [Wholesaling Inc. TTP page](https://www.wholesalinginc.com/ttp/); [RealEstateBees Wholesaling Inc. review](https://realestatebees.com/course/wholesaling-inc/)
+- Tom Krol is the founder of Wholesaling Inc. and PSL Homebuyers; he closed 100+ wholesale deals in his first 18 months and built his program around an "instruction over education" step-by-step roadmap — [Crushing REI](https://crushingrei.com/tom-krol/); [Wholesaling Inc.](https://www.biggerpockets.com/forums/93/topics/672661-wholesaling-inc-with-tom-krol)
+- Jerry Norton owns Flipping Mastery, whose YouTube channel "Flipping Mastery TV" is described as the #1 wholesaling/flipping channel with over 500,000 subscribers and 2,500+ videos; his students have flipped over $100 million (per company materials) to over $500 million (per a third-party roundup) in real estate — [RealEstateBees Flipping Mastery review](https://realestatebees.com/course/flipping-mastery/); [Feedspot house-flipping YouTuber roundup](https://videos.feedspot.com/house_flipping_youtube_channels/)
+- Max Maxwell is a self-taught wholesaler based in Winston-Salem, NC, founder of Cash Homes Triad, who built a multi-million-dollar wholesaling business and has "trained thousands" of people; he hosted the "Wholesaling Elite Live" event in Charlotte, NC in 2018 which drew 450+ attendees — [Carrot blog profile](https://carrot.com/blog/max-maxwell-wholesaling-business-success/)
+- Pace Morby hosts A&E's "Triple Digit Flip" and runs the Subto Community, a mentorship program launched in late 2019 teaching creative financing (subject-to, seller financing, lease options) plus wholesaling and fix-and-flip; his own portfolio does ~150 wholesale deals/year and ~50 flips/year, with an estimated $32M portfolio — [OfferMarket bio](https://www.offermarket.us/blog/pace-morby); [Subto About](https://www.subto.com/about)
+- Justin Colby founded The Science of Flipping (podcast + "#1 training and coaching system to launch, grow, and scale your investing business"); he has personally flipped over 1,500 homes and advised "1000s" of coaching clients — [Crunchbase](https://www.crunchbase.com/person/justin-colby-de86); [thescienceofflipping.com](https://thescienceofflipping.com/)
+- Cody Sperber, a Navy veteran, founded Clever Investor in 2010; the company has had over 150,000 students historically, made the Inc. 5000 fastest-growing list three years running, and Cody has personally closed 1,000+ deals worth $200M+ — [About Cody Sperber](https://codysperber.com/about/); [RealEstateBees Clever Investor review](https://realestatebees.com/course/clever-investor/) — Note: given the scale (150K+ lifetime students, repeated Inc. 5000 recognition), Clever Investor may sit closer to a "mature mega-brand" within the niche rather than a small/medium target; flag for manual sizing before outreach.
+- Kent Clothier founded Real Estate Worldwide (REWW) and invented "reverse wholesaling" software; REWW partners with Than Merrill of FortuneBuilders on an expanded coaching/academy offering — [kentclothier.com/about](https://kentclothier.com/about/); [REWW Wholesaling Mastery](https://reww.com/reww-academy/real-estate-wholesaling-mastery-certification) — Note: FortuneBuilders (Than Merrill) is itself a larger, more mainstream real-estate-education brand; treat Kent Clothier individually as the smaller-tier point of contact, not the FortuneBuilders brand as a whole.
+- Chris Rood runs "Chris Rood Coaching," marketed as "the number one real estate wholesaling coach in the US and Canada" (a marketing claim, not independently verified), teaching wholesaling, flipping, and manufactured/mobile-home flipping — [coaching.chrisrood.com](https://coaching.chrisrood.com/); [chrisrood.com](https://chrisrood.com/)
+- Sharad Mehta founded REsimpli (a real estate investor CRM, launched 2016) and separately runs the "Mastermind for Real Estate Wholesalers," which has grown to 1,400+ members, plus a weekly podcast; he has completed 750+ deals and flips 50+ houses/year (Indiana market, based in Carlsbad, CA) — [resimpli.com/sharad](https://resimpli.com/sharad/); [REsimpli mastermind recap](https://resimpli.com/blog/resimpli-mastermind-recap-sharad-mehta-talks-about-whats-working-and-not-working-in-2026/) — Note: Sharad Mehta is best framed as a hybrid software-company-founder/educator (his primary revenue is SaaS CRM subscriptions) rather than a pure course/coaching educator, but his audience of active wholesalers/flippers is directly relevant to a fix-and-flip lender.
+- Tarek El Moussa and Christina Hall (formerly "Haack") co-founded the real estate education brand "Real Estate Elevated" (formerly "Success Path") in 2018, following their HGTV shows "Flip or Flop" and "Flipping 101 with Tarek El Moussa" — [Wikipedia: Real Estate Elevated](https://en.wikipedia.org/wiki/Real_Estate_Elevated); [Wikipedia: Tarek El Moussa](https://en.wikipedia.org/wiki/Tarek_El_Moussa)
+- Separately, Tarek El Moussa and Christina Hall were paid promotional faces for Zurixx LLC's real estate training seminars; the FTC took action against Zurixx for deceptive marketing (a "free" course upsold to thousands of dollars), and victims began receiving $12M+ in refunds — [Darien Times/AP wire](https://www.darientimes.com/realestate/article/victims-real-estate-scheme-involving-hgtv-s-19652705.php); [Entertainment Now](https://entertainmentnow.com/hgtv/real-estate-scam-christina-hall-tarek/)
+
+### Inferences
+- Tarek El Moussa / Christina Hall should be flagged clearly to the requester as TV-famous, mainstream-scale, and carrying reputational/compliance risk (FTC action tied to a training program they promoted, even though that program — Zurixx — appears distinct from their own "Real Estate Elevated" brand). They are not a realistic small-medium partnership target and are included here only because the prompt asked to verify/flag them.
+- Cody Sperber (Clever Investor) and possibly Kent Clothier's REWW/FortuneBuilders partnership may also be closer to "too large" than the "Michael Chang tier" the requester wants; both are flagged for manual sizing rather than excluded outright, per instructions not to omit borderline names.
+- The remaining individuals (Bill Allen, Ryan Pineda, Jamil Damji, Brent Daniels, Tom Krol, Jerry Norton, Max Maxwell, Pace Morby, Justin Colby, Chris Rood, Sharad Mehta) appear to be a good fit for the "engaged following in the thousands to low hundreds of thousands, individual/small-team run" target profile, though several need manual audience-size confirmation (see gaps below and the audience-size question).
+
+### Gaps
+- Could not find independent, non-marketing audience-size or revenue figures for Bill Allen/7 Figure Flipping, Max Maxwell, Justin Colby, Tom Krol, or Chris Rood — recommend manual verification via their own YouTube/Instagram/podcast channel pages.
+- Could not confirm whether "Killer Deal University" or "Killer REI" (names suggested in the original query prompt for Chris Rood) are real product names; search results only surfaced "Chris Rood Coaching" at coaching.chrisrood.com. Do not use "Killer Deal University" without further verification — it may not be a real Chris Rood product.
+- Could not confirm current relationship status/independence of Brent Daniels vs. Tom Krol (both appear to operate under the shared "Wholesaling Inc." umbrella) — worth confirming whether outreach should target Wholesaling Inc. as a company or Brent Daniels/Tom Krol as individuals.
+
+## What are their brand/company names?
+
+### Takeaway
+Each educator operates under a distinct personal or product brand, and several run multiple brands simultaneously (an education/coaching brand plus a software or events brand).
+
+### Cited Findings
+- Bill Allen → 7 Figure Flipping (mastermind), with sub-programs "7 Figure Runway" and "7 Figure Altitude" — [7figureflipping.com](https://www.7figureflipping.com/)
+- Ryan Pineda → "Wealthy Way" (media/podcast/community brand) and "Future Flipper" (course/academy platform, academy.futureflipper.com) — [academy.futureflipper.com](https://academy.futureflipper.com/courses/wealth-builder-academy/lectures/36964626); [wealthyway.com](https://wealthyway.com/)
+- Jamil Damji → KeyGlee (wholesaling franchise), AstroFlipping (mentorship, with Josiah Grimes), Energy of Money (mastermind) — [jdamji.com](https://www.jdamji.com/)
+- Brent Daniels → "TTP" (Talk To People) program under Wholesaling Inc. — [wholesalinginc.com/ttp](https://www.wholesalinginc.com/ttp/)
+- Tom Krol → Wholesaling Inc., PSL Homebuyers — [Crunchbase](https://www.crunchbase.com/person/tom-krol)
+- Jerry Norton → Flipping Mastery, Flipster (software), Fast Track Intensive / Inner Circle (coaching tiers) — [flippingmastery.com](https://flippingmastery.com/); [flippingmastery.com/innercircle](https://flippingmastery.com/innercircle/)
+- Max Maxwell → Cash Homes Triad, "Wholesaling Houses Elite" (podcast), "Wholesaling Elite Live" (event brand) — [open.spotify.com/show/Wholesaling Houses Elite](https://open.spotify.com/show/7gz9CRluBfgmdRSRXtT8Zk)
+- Pace Morby → Subto / SubTo Community — [subto.com](https://www.subto.com/about)
+- Justin Colby → The Science of Flipping — [thescienceofflipping.com](https://thescienceofflipping.com/)
+- Cody Sperber → Clever Investor — [codysperber.com](https://codysperber.com/about/)
+- Kent Clothier → Real Estate Worldwide (REWW), plus software brands 1-800-SELL-NOW, Find Cash Buyers NOW, Find Private Lenders NOW, Find Motivated Sellers NOW — [kentclothier.com](https://kentclothier.com/about/)
+- Chris Rood → Chris Rood Coaching — [chrisrood.com](https://chrisrood.com/)
+- Sharad Mehta → REsimpli (CRM/software) and "Mastermind for Real Estate Wholesalers" — [resimpli.com/sharad](https://resimpli.com/sharad/)
+- Tarek El Moussa / Christina Hall → Real Estate Elevated (formerly Success Path); separately promoted Zurixx LLC's seminars — [Wikipedia](https://en.wikipedia.org/wiki/Real_Estate_Elevated)
+
+### Inferences
+- Several of these educators (Jerry Norton, Kent Clothier, Sharad Mehta) pair their coaching/mastermind brand with a proprietary software product (Flipster, REWW's suite, REsimpli), which is itself a plausible integration/affiliate point for a lender (e.g., co-marketing inside their software's deal pipeline).
+
+### Gaps
+- None beyond those noted in the first section.
+
+## What platform(s) do they primarily use (YouTube, Instagram, TikTok, podcast, newsletter/Substack, course platform)?
+
+### Takeaway
+Nearly all of these educators run a YouTube channel and/or podcast as their top-of-funnel content platform, with Instagram as a secondary platform; none were confirmed to primarily use Substack/newsletter or TikTok as their lead channel based on available search results (TikTok presence was not directly investigated and should be checked manually).
+
+### Cited Findings
+- Bill Allen: podcast-led ("7 Figure Flipping Podcast," on Acast/Apple Podcasts) plus LinkedIn and the 7figureflipping.com website — [Apple Podcasts](https://podcasts.apple.com/ie/podcast/7-figure-flipping-with-bill-allen/id730653890); [LinkedIn](https://www.linkedin.com/in/bill-allen-rei/)
+- Ryan Pineda: YouTube (primary, ~1.5M subscribers cited) plus the "Wealthy Way" podcast and Instagram (@wealthyway) — [InfluencerFee](https://influencerfee.com/influencer/ryan-pineda/); [Instagram @wealthyway](https://www.instagram.com/wealthyway/)
+- Jamil Damji: Instagram (personal @jdamji and brand @astroflipping) plus A&E TV ("Triple Digit Flip") — [Instagram @jdamji](https://www.instagram.com/jdamji/?hl=en); [Instagram @astroflipping](https://www.instagram.com/astroflipping/)
+- Brent Daniels / Tom Krol: YouTube, the "Wholesaling Inc Podcast," and free introductory course funnel — [RealEstateBees](https://realestatebees.com/course/wholesaling-inc/)
+- Jerry Norton: YouTube (primary — "Flipping Mastery TV," 500,000+ subscribers), plus Facebook, Instagram, and Threads — [Instagram @flippingmastery](https://www.instagram.com/flippingmastery/?hl=en); [Facebook](https://www.facebook.com/FlippingMastery/); [Threads](https://www.threads.com/@flippingmastery)
+- Max Maxwell: YouTube plus the "Wholesaling Houses Elite" podcast (Spotify) — [Spotify](https://open.spotify.com/show/7gz9CRluBfgmdRSRXtT8Zk)
+- Pace Morby: Instagram (300,000+ followers) plus YouTube and A&E TV — [OfferMarket](https://www.offermarket.us/blog/pace-morby)
+- Justin Colby: Podcast ("The Science of Flipping" / "The MORE Show," on Apple Podcasts/Castbox) plus YouTube — [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-science-of-flipping/id714464552); [YouTube](https://www.youtube.com/watch?v=QsAMv_0w4sw)
+- Cody Sperber: Podcast ("The Clever Investor Show") plus YouTube and published books — [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-clever-investor-show/id1655722238)
+- Kent Clothier: Website/course platform (kentclothier.com, reww.com) plus podcast guest appearances — [kentclothier.com](https://kentclothier.com/real-estate-wholesaling-coaching/)
+- Chris Rood: YouTube guest appearances (e.g., Flipping Mastery Show) plus LinkedIn and his own coaching website — [LinkedIn](https://www.linkedin.com/in/chris-rood-72a76276/); [YouTube](https://www.youtube.com/watch?v=02CgxC0D8Gg)
+- Sharad Mehta: YouTube (REsimpli channel) plus podcast ("Real Talk with REsimpli" / weekly Wednesday mastermind calls) — [Podbean](https://realtalkwithresimpli.podbean.com/); [REsimpli blog](https://resimpli.com/blog/sharad-mehta-scaling-remote-deal-ops-and-next-gen-ai/)
+
+### Inferences
+- YouTube + podcast is the dominant content format in this niche, which fits a lender's likely outreach channel (sponsorships, pre-roll ads, guest appearances, or affiliate links in video descriptions/show notes).
+
+### Gaps
+- TikTok presence and relative audience size on TikTok were not directly researched for any of these individuals — should be checked manually if TikTok is a priority channel for outreach.
+- Newsletter/Substack presence was not confirmed for any individual on this list — none surfaced as primarily newsletter-driven; worth a direct check of each person's website for an email list/newsletter signup.
+
+## What is their approximate audience size on their primary platform, if publicly discoverable?
+
+### Takeaway
+Only a few precise, sourced audience figures were found (Jerry Norton/Flipping Mastery TV: 500,000+ YouTube subscribers; Ryan Pineda: 1.5M YouTube subscribers cumulative; Pace Morby: 300,000+ Instagram followers; Jamil Damji: 197K personal Instagram, 17K AstroFlipping Instagram); most others lack a verified current figure in available sources and should be confirmed manually by visiting each channel directly.
+
+### Cited Findings
+- Jerry Norton / Flipping Mastery TV: "over 500,000 subscribers," described as the #1 YouTube channel for wholesaling and flipping — [RealEstateBees](https://realestatebees.com/course/flipping-mastery/)
+- Ryan Pineda: "1.5 million YouTube subscribers" and "over 1 billion views" cumulative across social media (figure is from a third-party influencer-marketing database, not Pineda's own channel page — treat as approximate) — [InfluencerFee](https://influencerfee.com/influencer/ryan-pineda/)
+- Ryan Pineda / Wealthy Way Instagram (@wealthyway): a search-tool snapshot showed only 3,109 followers, which is implausibly low relative to his YouTube reach and should be treated as unreliable/likely a stale or mis-scraped figure — needs direct manual check of the live Instagram profile — [Instagram @wealthyway](https://www.instagram.com/wealthyway/)
+- Pace Morby: "over 300,000 followers" on Instagram — [OfferMarket](https://www.offermarket.us/blog/pace-morby)
+- Jamil Damji: personal Instagram (@jdamji) at 197K followers; brand account (@astroflipping) at 17K followers — [Instagram @jdamji](https://www.instagram.com/jdamji/?hl=en); [Instagram @astroflipping](https://www.instagram.com/astroflipping/)
+- Cody Sperber / Clever Investor: "over 150,000 students" historically (a lifetime enrollment count, not a current follower/subscriber count) — [About Cody Sperber](https://codysperber.com/about/)
+- Sharad Mehta's wholesaler mastermind: "over 1,400 members" (a community membership count, not social-platform followers) — [REsimpli](https://resimpli.com/blog/resimpli-mastermind-recap-sharad-mehta-talks-about-whats-working-and-not-working-in-2026/)
+- Brent Daniels / TTP: "more than 2,000 real estate investors have taken the mentorship program since 2017" (a program-enrollment count, not audience size) — [RealEstateBees](https://realestatebees.com/course/wholesaling-inc/)
+
+### Inferences
+- The audience sizes that were found place Jerry Norton, Ryan Pineda, Pace Morby, and Jamil Damji at the upper end of the "thousands to low hundreds of thousands" range specified by the requester (Pineda's 1.5M YouTube figure, if accurate, may put him at the larger edge of or slightly above the target range and should be judgment-called by the requester).
+
+### Gaps
+- No verified current subscriber/follower counts were found for: Bill Allen (7 Figure Flipping), Max Maxwell, Justin Colby, Tom Krol, Kent Clothier, Chris Rood. All should be checked directly on their live YouTube/Instagram/podcast platform pages before outreach, since third-party listicles and course-review sites do not reliably report current follower counts.
+- Given the general unreliability of secondhand follower counts observed above (e.g., the Ryan Pineda Instagram discrepancy), all audience-size figures in this note should be treated as directional and re-verified manually immediately before any partnership decision.
+
+## What specific sub-niche do they focus on (e.g., wholesaling, fix-and-flip in specific regional markets, new construction spec building, distressed property acquisition)?
+
+### Takeaway
+Sub-niches cluster around three patterns: (1) pure wholesaling/lead-generation tactics (cold calling, reverse wholesaling), (2) broad fix-and-flip + wholesaling business-scaling education, and (3) creative-finance strategies (subject-to, seller financing) that sit adjacent to — but are distinct from — traditional hard-money/bridge-loan-dependent flipping.
+
+### Cited Findings
+- Bill Allen / 7 Figure Flipping: national-volume flipping and wholesaling, business scaling for investors already doing deals ("7 Figure Runway" targets investors wanting to "build a scalable business and start stacking assets") — [7figureflipping.com](https://www.7figureflipping.com/)
+- Ryan Pineda: broad real estate investing (wholesaling, flipping, rentals) combined with a personal-brand/content-business education angle — [Wealthy Way brand ecosystem description via search synthesis]
+- Jamil Damji / KeyGlee: wholesaling specifically, using a multi-market franchise model (118 markets) — [KeyGlee](https://www.keyglee.com/investment-properties)
+- Brent Daniels / TTP: cold-calling/direct-outreach lead generation specifically for wholesaling motivated sellers — [wholesalinginc.com/ttp](https://www.wholesalinginc.com/ttp/)
+- Tom Krol / Wholesaling Inc.: wholesaling, taught via a prescriptive "roadmap" system — [Crushing REI](https://crushingrei.com/tom-krol/)
+- Jerry Norton / Flipping Mastery: wholesaling and fix-and-flip broadly, plus niche extensions into land flipping, new construction flipping, "creative" deal structures, and note flipping — [Feedspot roundup](https://videos.feedspot.com/house_flipping_youtube_channels/)
+- Max Maxwell: wholesaling, regionally rooted in the Carolinas (Winston-Salem/Charlotte, NC) — [Carrot](https://carrot.com/blog/max-maxwell-wholesaling-business-success/)
+- Pace Morby / Subto: creative financing (subject-to, seller financing, lease options) as the core teaching, with wholesaling and fix-and-flip as secondary/supporting strategies in his own portfolio — [OfferMarket](https://www.offermarket.us/blog/pace-morby)
+- Justin Colby / The Science of Flipping: general "launch, grow, and scale" investing-business coaching, personally flip-focused (1,500+ personal flips) — [Crunchbase](https://www.crunchbase.com/person/justin-colby-de86)
+- Cody Sperber / Clever Investor: broad strategy set — wholesale, short sales, multi-unit, subject-to, lease options, and his own "Reverse Short Sale" strategy — [codysperber.com](https://codysperber.com/about/)
+- Kent Clothier / REWW: "reverse wholesaling" (finding cash buyers first, then sourcing matching deals) — [kentclothier.com](https://kentclothier.com/real-estate-wholesaling-coaching/)
+- Chris Rood: wholesaling, fix-and-flip, and a specific niche in flipping new manufactured/mobile homes and mobile home park investing — [Flipping Mastery Podcast episode](https://www.podcastics.com/podcast/episode/exactly-how-chris-rood-makes-huge-profits-flipping-new-manufactured-homes-flipping-mastery-show-367618/)
+- Sharad Mehta / REsimpli: tech-enabled/remote wholesaling operations at scale (with his own book of business concentrated in Indiana while operating remotely from California) — [resimpli.com/sharad](https://resimpli.com/sharad/)
+
+### Inferences
+- For a hard-money/bridge/fix-and-flip lender specifically, the strongest-fit sub-niche audiences (borrowers who need acquisition + rehab financing, not just assignment-fee wholesaling) are likely Bill Allen, Jerry Norton, Justin Colby, Chris Rood, and Sharad Mehta's community, since their content and audiences skew toward investors who actually acquire and renovate property rather than pure paper-wholesalers who never take title.
+- Pure wholesaling-focused educators (Brent Daniels/TTP, Tom Krol, Max Maxwell, Kent Clothier/reverse-wholesaling) reach an audience that may be earlier-stage or less likely to need rehab financing directly, though many wholesalers graduate into flipping and would still be a relevant top-of-funnel audience for a lender.
+
+### Gaps
+- No source explicitly breaks down what percentage of each educator's audience is active property-acquirers (needing hard money/bridge loans) versus assignment-only wholesalers who never need financing; this distinction matters for the lender's targeting and would require either direct outreach/conversation with each educator or survey-level audience data not available in public sources.
+
+## Do they have publicly listed business contact info (website, business email, contact form, social handles)?
+
+### Takeaway
+All individuals profiled have a discoverable primary website and/or social handles; specific business email addresses were generally not publicly listed (most use contact forms), so direct email addresses should be confirmed manually or via LinkedIn/website contact forms.
+
+### Cited Findings
+- Bill Allen: 7figureflipping.com (includes a "speaking" contact page) and LinkedIn (linkedin.com/in/bill-allen-rei) — [7figureflipping.com/speaking](https://www.7figureflipping.com/speaking); [LinkedIn](https://www.linkedin.com/in/bill-allen-rei/)
+- Ryan Pineda: ryanpineda.com (1:1 work inquiry page) and wealthyway.com (guest/application forms) — [ryanpineda.com](https://ryanpineda.com/); [wealthyway.com](https://wealthyway.com/)
+- Jamil Damji: jdamji.com (personal site) and keyglee.com; Instagram handles @jdamji and @astroflipping; Facebook page — [jdamji.com](https://www.jdamji.com/); [Facebook](https://www.facebook.com/jamil.damji/)
+- Brent Daniels / Tom Krol: wholesalinginc.com (company site with TTP program page) — [wholesalinginc.com](https://www.wholesalinginc.com/ttp/)
+- Jerry Norton: flippingmastery.com, plus Facebook (@FlippingMastery), Instagram (@flippingmastery), and Threads (@flippingmastery) — [flippingmastery.com](https://flippingmastery.com/)
+- Max Maxwell: no direct personal website/contact page surfaced in search results; primary discoverable channels are his podcast and past event pages — gap, needs manual lookup (e.g., LinkedIn or Instagram search)
+- Pace Morby: subto.com (About/contact) and pacemorby.com — [subto.com/about](https://www.subto.com/about); [pacemorby.com](https://www.trustpilot.com/review/pacemorby.com)
+- Justin Colby: thescienceofflipping.com — [thescienceofflipping.com](https://thescienceofflipping.com/)
+- Cody Sperber: codysperber.com (About page) — [codysperber.com/about](https://codysperber.com/about/)
+- Kent Clothier: kentclothier.com (About, products, and coaching pages) and reww.com — [kentclothier.com](https://kentclothier.com/about/)
+- Chris Rood: chrisrood.com and coaching.chrisrood.com, plus a LinkedIn profile (linkedin.com/in/chris-rood-72a76276) — [chrisrood.com](https://chrisrood.com/); [LinkedIn](https://www.linkedin.com/in/chris-rood-72a76276/)
+- Sharad Mehta: resimpli.com/sharad (bio page on the company site) — [resimpli.com/sharad](https://resimpli.com/sharad/)
+- Tarek El Moussa / Christina Hall: no direct current course contact info gathered (deprioritized given the too-large/TV-famous flag); general public contact would run through their respective talent/media representation rather than a small-business contact form.
+
+### Inferences
+- None of the profiled websites in these search results exposed a raw business email address directly in search snippets; a lender's outreach team should expect to use each site's contact/booking form, LinkedIn InMail, or a media/talent inquiry as the first contact point rather than assuming a public email exists.
+
+### Gaps
+- Max Maxwell's current primary business website/contact channel could not be confirmed and needs direct manual lookup.
+- No direct business email addresses were found for any individual on this list (only contact forms/booking pages); if a specific email is required, it will need manual confirmation via each site's contact page or a business-intelligence tool.
+
+## How do they monetize (paid course price point, coaching/mastermind, in-person events, affiliate deals with hard money lenders/vendors)?
+
+### Takeaway
+Monetization across this group is consistently a mix of paid coaching/mastermind programs (often with undisclosed or only community-estimated pricing), proprietary software/SaaS products, in-person events/masterminds, and in several cases built-in funding-partner relationships that already resemble the kind of affiliate/lender-referral arrangement a hard-money lender would want to explore.
+
+### Cited Findings
+- Bill Allen / 7 Figure Flipping: mastermind coaching tiers (7 Figure Runway, 7 Figure Altitude) that explicitly advertise "100% purchase and renovation financing through our built-in funding partners" as a program benefit — i.e., 7 Figure Flipping already has funding-partner/lender relationships, making it a directly relevant existing-affiliate-model comparable — [7figureflipping.com](https://www.7figureflipping.com/)
+- Ryan Pineda: 1:1 coaching (ryanpineda.com), Future Flipper Academy course platform, free Wealthy Way community, and the in-person "Futureland" conference — [ryanpineda.com](https://ryanpineda.com/); [academy.futureflipper.com](https://academy.futureflipper.com/courses/wealth-builder-academy/lectures/36964626)
+- Jamil Damji: AstroFlipping mentorship (community-estimated pricing of roughly $2,000–$15,000, not officially published), KeyGlee franchise fees, and the "Energy of Money" mastermind — [RealEstateBees AstroFlipping review](https://realestatebees.com/course/astroflipping/)
+- Brent Daniels / Tom Krol: paid TTP coaching program (price not publicly listed; prospects must contact the company) plus free introductory course as a lead funnel — [RealEstateBees](https://realestatebees.com/course/wholesaling-inc/)
+- Jerry Norton: Fast Track Intensive (flagship paid coaching, includes 1-on-1 interaction with Jerry's team), Flipster (paid SaaS wholesaling software), and an "Inner Circle" personal-coaching tier — [flippingmastery.com/innercircle](https://flippingmastery.com/innercircle/)
+- Max Maxwell: training/coaching (pricing not found) and paid in-person events (e.g., "Wholesaling Elite Live," which sold out in under 30 days) — [Carrot](https://carrot.com/blog/max-maxwell-wholesaling-business-success/)
+- Pace Morby / Subto: paid mentorship community combining live coaching, on-demand training, and hands-on deal support (structured as an ongoing membership rather than a one-time course; pricing not officially published and reviews note "high pricing" complaints) — [Subto review roundup](https://onlinetrainingreviewer.com/reviews/subto-pace-morby)
+- Justin Colby: paid coaching program (marketed as the "#1 training and coaching system"), described as holding a 4-star/166-review Trustpilot rating — [Trustpilot](https://www.trustpilot.com/review/www.thescienceofflipping.com)
+- Cody Sperber / Clever Investor: 1-on-1 coaching plus courses/information products; company has scaled to 150,000+ historical students — [codysperber.com/about](https://codysperber.com/about/)
+- Kent Clothier / REWW: Academy combines paid coaching/mentoring with a bundled suite of proprietary software subscriptions (1-800-SELL-NOW, Find Cash Buyers NOW, etc.) — [kentclothier.com](https://kentclothier.com/real-estate-wholesaling-products/)
+- Chris Rood: a 26-hour paid wholesaling course, weekly live group coaching calls, and the option to partner with Chris directly on deals — [coaching.chrisrood.com](https://coaching.chrisrood.com/)
+- Sharad Mehta: primarily monetizes via REsimpli's CRM/SaaS subscription; the wholesaler mastermind (1,400+ members) appears to be a community/marketing layer around the software rather than a standalone paid course — [resimpli.com](https://resimpli.com/)
+- Tarek El Moussa / Christina Hall: historically monetized via "Real Estate Elevated" (a free intro event funneling into a paid multi-day "Real Estate Accelerator Workshop" plus ongoing coaching) and, separately, as paid promotional talent for Zurixx LLC's now-FTC-sanctioned seminar business — [Wikipedia: Real Estate Elevated](https://en.wikipedia.org/wiki/Real_Estate_Elevated); [Darien Times/AP](https://www.darientimes.com/realestate/article/victims-real-estate-scheme-involving-hgtv-s-19652705.php)
+
+### Inferences
+- Bill Allen (7 Figure Flipping) already runs a "built-in funding partners" model inside his mastermind, which makes him a strong precedent/comparable for how a hard-money or bridge lender might structure a co-marketing or embedded-financing partnership with an educator in this space.
+- Course/coaching pricing in this niche is rarely published publicly (most sites require a call/application to learn price), which is consistent across nearly every educator profiled — a lender's business-development team should expect to need direct outreach or a "mystery shopper" call to learn exact price points rather than finding them via public search.
+
+### Gaps
+- Exact price points were not found for any of the profiled coaching/mastermind programs except the community-sourced AstroFlipping estimate ($2,000–$15,000, unofficial). All pricing should be confirmed via direct outreach/sales call before using any figure in materials.
+- No explicit, named hard-money/bridge-lender affiliate or sponsorship deal (beyond Bill Allen's general "built-in funding partners" mention) was found publicly documented for any of these educators; this is a meaningful gap for the requester's core use case and would likely require either direct conversations with each educator's team or deeper investigation of each program's partner/sponsor pages.
