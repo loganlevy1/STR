@@ -34,6 +34,14 @@ research. Most audience-size figures are marked "needs manual verification" —
 confirm live follower/subscriber counts and current contact info directly on
 each educator's own channels before using this list for outreach.
 
+A follow-up research pass added likely business home base (HQ) and
+publicly-published contact info (phone/email/mailing address, sourced from
+each business's own site, BBB profiles, and corporate filings — never
+people-search or residential records) for all ~70 names. Per-name detail is
+in each niche file under `research_notes/`; a consolidated view plus a
+NY/CT/NJ regional pull is in the report's "Home base and public contact
+info" section.
+
 ## Next steps
 
 - Manually verify the "confirmed" and near-confirmed names first — they're
